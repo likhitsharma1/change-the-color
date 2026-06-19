@@ -11,7 +11,7 @@ button.forEach(function(button){
        }
        if(e.target.id=='btn2'){
         body.style.backgroundColor='red';
-        heading.style.color='blue';
+        heading.style.color='lightseagreen';
        }
        if(e.target.id=='btn3'){
         body.style.backgroundColor='purple';
